@@ -1,0 +1,8 @@
+=======Receipt=======
+Customer Name: Morgan
+Customer ID: 50
+
+De Anza Burger x2 | $10.5
+
+Tax Percentage: 0%
+Total + Tax: $10
